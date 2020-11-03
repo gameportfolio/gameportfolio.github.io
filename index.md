@@ -8,6 +8,8 @@
 
 [문제1 mp4](files/w01/문제1.mp4)
 
+![](files/w01/문제1.mp4)
+
 <video src="files/w01/문제1.mp4" markdown="1">video</video>
 
 <video width="320" height="240" controls>
