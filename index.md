@@ -10,6 +10,10 @@
 
 <video src="files/w01/문제1.mp4" markdown="1">video</video>
 
+<video width="320" height="240" controls>
+  <source src="files/w01/문제1.mp4" type="video/mp4">
+</video>
+
 ### 서브컨셉1
 * 가나다라마 가나다라마 가나다라마 가나다라마 가나다라마 가나다라마 가나다라마 
 - 가나다라마 가나다라마 가나다라마 가나다라마 가나다라마 
