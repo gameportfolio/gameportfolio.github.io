@@ -8,14 +8,15 @@
 
 [문제1 mp4](https://gifs.com/gif/firstgif-ZYjpZR)
 
-<!-- blank line -->
+# 시작
+
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+  <video controls="true" allowfullscreen="true" poster="img/관련이미지.bmp">
     <source src="files/w01/문제1.mp4" type="video/mp4">
   </video>
 </figure>
-<!-- blank line -->
 
+# 끝
 
 ### 서브컨셉1
 * 가나다라마 가나다라마 가나다라마 가나다라마 가나다라마 가나다라마 가나다라마 
