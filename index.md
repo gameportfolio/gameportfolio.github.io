@@ -6,7 +6,7 @@
 
 [2주 작업결과](files/w02/index.md)
 
-[문제1 mp4](files/w01/문제1.mp4)
+[문제1 mp4](https://gifs.com/gif/firstgif-ZYjpZR)
 
 ![](files/w01/문제1.mp4)
 
