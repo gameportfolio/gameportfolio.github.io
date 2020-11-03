@@ -8,7 +8,7 @@
 
 [문제1 mp4](files/w01/문제1.mp4)
 
-<video src="files/w01/문제1.mp4"></video>
+<video src="files/w01/문제1.mp4" markdown="1">video</video>
 
 ### 서브컨셉1
 * 가나다라마 가나다라마 가나다라마 가나다라마 가나다라마 가나다라마 가나다라마 
