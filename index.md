@@ -10,15 +10,10 @@
 
 # 시작
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="img/관련이미지.bmp">
+<video controls width="640" height="480">
     <source src="files/w01/문제1.mp4" type="video/mp4">
-  </video>
-</figure>
-
-<figure class="video_container">
-  <iframe src="files/w01/문제1.mp4" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+    Sorry, your browser doesn't support embedded videos.
+</video>
 
 # 끝
 
